@@ -5,7 +5,9 @@ acak-acakan
 acuh
 acuh tak acuh
 adiktif
-adil
+adigang
+adigung
+adiguna
 agresi
 agresif
 agresor
@@ -43,7 +45,7 @@ anomali
 antagonis
 antagonisme
 antek
-anti-
+anti
 anti-Amerika
 anti-Israel
 anti-kita
@@ -62,6 +64,7 @@ apokaliptik
 apologis
 argumentatif
 artinya jika
+arogan
 asam
 asap
 asem
@@ -337,6 +340,7 @@ desis
 destruktif
 diam
 diam-diam
+dibabat
 dibakar
 dibanjiri
 dibantai
@@ -345,12 +349,16 @@ dibenci
 dibesar-besarkan
 dibuang
 dibuat-buat
+dibully
+dibulli
+dibuli
 dicela
 dicerca
 dicuci
 dicuri
 didanai
 diganggu
+digunjing
 dihaluskan
 dihentikan
 dihibur
@@ -362,10 +370,13 @@ dikenakan
 dikorbankan
 diktator
 diktatoris
+dilabrak
 dilapisi gula
+dilaporkan
 dilecehkan
 dilema
 dilenyapkan
+dilibas
 dimaafkan
 dimarahi
 dimengerti
@@ -393,6 +404,7 @@ diskriminatif
 disorient
 disproporsional
 distorsi
+ditabrak
 ditakdirkan
 ditinggalkan
 ditipu
@@ -1517,6 +1529,7 @@ miskin
 misteri
 misterius
 mitos
+misuh
 momok
 mubazir
 mudah terharu
@@ -1855,6 +1868,7 @@ propaganda
 protes
 provokasi
 provokatif
+PSK
 puas
 pucat
 pukulan
