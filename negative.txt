@@ -24,10 +24,14 @@ amat panas
 ambigu
 ambivalen
 ambivalensi
+amburadul
+ambruk
 amoral
 amoralitas
 ampun
+ampunan
 amuk
+amukan
 anak nakal
 anak yatim
 anarki
@@ -504,6 +508,7 @@ gila
 gila hormat
 gila ketakutan
 gila-gilaan
+goblok
 godaan
 goreng
 goresan
@@ -2369,6 +2374,7 @@ tipis
 tipu
 tipu daya
 tipu muslihat
+tiran
 tirani
 tolol
 topangan
