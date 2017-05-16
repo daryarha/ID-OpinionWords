@@ -84,6 +84,7 @@ bahaya
 bajingan
 baju kotor
 balas dendam
+bandar
 bandel
 bandot
 bangkrut
@@ -102,6 +103,7 @@ bekas luka
 bekas roda
 beku
 belah
+belang
 belum dewasa
 belum dicoba
 belum dikonfirmasi
@@ -1540,6 +1542,7 @@ mitos
 misuh
 momok
 mubazir
+mucikari
 mudah terharu
 mudah tersinggung
 mudah tertipu
@@ -2379,6 +2382,7 @@ tipu daya
 tipu muslihat
 tiran
 tirani
+togel
 tolol
 topangan
 totaliter
